@@ -1,5 +1,3 @@
-# Custom-PC-Build
-
 # Custom PC Build
 
 ## Overview
